@@ -1,0 +1,10 @@
+# 编译生成的二进制文件
+*.exe
+*.obj
+*.map
+*.lst
+
+# 图片和临时文件
+images/
+*.gif
+.vscode/
